@@ -1,0 +1,12 @@
+plan 9-11.08'24
+
+09.08'24
+1. uruchom strone logowania lokalnie
+	- ui = done
+2. wrzuć na github
+
+
+- login page front ui (api) -> git
+- tutorial 2x0,75h
+
+~ miejsce do hostowania aplikcji (domena wexsto.pl); środowiska stage, prod, demo
